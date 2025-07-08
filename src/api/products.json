@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name":"Shirt",
+        "category":"Shirts",
+        "brand":"shoppo.com",
+        "price":999.00,
+        "stock":20,
+        "description":"Casual Striped shirt For Men ",
+        "image":"./images/ShirtW.png"
+    },
+    {
+        "id": 2,
+        "name":"Hoodie",
+        "category":"Hoodies",
+        "brand":"shoppo.com",
+        "price":1999.00,
+        "stock":40,
+        "description":"Graphic Hoodie For Men ",
+        "image":"./images/hoodieB.png"
+    },
+    {
+        "id": 3,
+        "name":"Hoodie",
+        "category":"Hoodies",
+        "brand":"shoppo.com",
+        "price":1999.00,
+        "stock":40,
+        "description":"Graphic Hoodie For Men ",
+        "image":"./images/hoodieBrown.png"
+    },
+    {
+        "id": 4,
+        "name":"T-Shirt",
+        "category":"women-TShirt",
+        "brand":"shoppo.com",
+        "price":1299.00,
+        "stock":70,
+        "description":" Shoppo Jacquard Collar Polo T-shirt for Women | Premium Comfort | Sharp Look",
+        "image":"./images/WomenTS.png"
+    },
+   
+   
+    {
+        "id": 5,
+        "name":"Check-Shirt",
+        "category":"Shirts",
+        "brand":"shoppo.com",
+        "price":2699.00,
+        "stock":40,
+        "description":"Casual Striped shirt For Men ",
+        "image":"./images/blueSHirt.png"
+    },
+    {
+        "id": 6,
+        "name":"T-Shirt",
+        "category":"women-TShirt",
+        "brand":"shoppo.com",
+        "price":1299.00,
+        "stock":70,
+        "description":" Shoppo Jacquard Collar Polo T-shirt for Women | Premium Comfort | Sharp Look",
+        "image":"./images/women.png"
+    }
+]
